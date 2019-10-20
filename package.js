@@ -11,7 +11,7 @@ Package.describe({
 });
 
 Npm.depends({
-    "phone"         : "1.0.3",
+    "phone"         : "2.3.22",
     "twilio"        : "1.10.0",
     "stream-buffers": "0.2.5"
 });
